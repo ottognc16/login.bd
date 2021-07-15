@@ -1,0 +1,22 @@
+*{
+    margin: auto;
+    padding: auto;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+body{
+  margin-top: 5%;
+    background: url('https://www.tuexpertomovil.com/wp-content/uploads/2021/06/fondo-de-pantalla-del-nombre-de-harry-potter.jpg'); 
+}
+
+img{
+height: 300px;
+
+}
+
+.card{
+  
+    height: 20%;
+    width: 200px;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 5);
+}

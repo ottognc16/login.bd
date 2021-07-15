@@ -1,0 +1,17 @@
+*{
+    padding: auto;
+    margin: auto;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+body{
+    margin-top: 5%;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcODOvNfRVvROGaIMoby0QmKHWbeMcP9EcQg&usqp=CAU'); 
+}
+.card{
+    height: 20%;
+    width: 200px;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 5);
+}
+
